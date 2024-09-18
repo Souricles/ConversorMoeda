@@ -1,0 +1,51 @@
+
+body {
+    background-image: url('https://s2-oglobo.glbimg.com/h-g7fZe5I7wunh0YP25PdAvsNhY=/0x0:740x493/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/n/d/5kBnIxSpWw4sr1APAfBA/freepik.jpg');
+    background-size: cover; /* Cobre toda a tela */
+    background-position: center; /* Centraliza a imagem */
+    position: relative;
+    min-height: 100vh;
+  }
+
+#one-label, #two-label, #thre-label{
+    margin-left: 70px;
+}
+
+
+#logo{
+    width: 150px;
+    border-radius: 80px;
+}
+
+#button-converter{
+    width: 700px;
+    height: 55px;
+    margin-left: 302px;
+    font-size: 25px;
+    margin-top: -5px;
+}
+
+.div-section{
+    margin-left: 300px;
+    margin-right: 120px;
+    margin-top: 0px;
+    text-align: center;
+    padding: 20px 100px;
+    border-radius: 10px;
+
+}
+
+.img-seta{
+    margin-bottom: 15px;
+}
+
+p{
+    font-size: 22px;
+    font-weight: 600;
+    box-shadow: 5px 5px 5px 2px rgba(248, 248, 245, 0.927);
+    border-radius: 15px;
+    color: rgb(12, 12, 12);
+    background-color: rgba(239, 241, 242, 0.32);
+    }
+    
+
