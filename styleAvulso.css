@@ -59,7 +59,7 @@ p {
     }
 
     .div-one {
-        width: 473px;
+        width: 370px;
         margin-left: -70px;
     }
 
@@ -69,11 +69,15 @@ p {
 
     #one-label, #two-label, #thre-label {
         margin-left: 70px;
-        width: 406px;
+        width: 350px;
     }
 
     .div-section {
         margin-left: -92px;
         margin-right: -90px;
+    }
+
+    body{
+        margin-bottom: 105px;
     }
 }
